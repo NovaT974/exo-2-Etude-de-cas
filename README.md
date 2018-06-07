@@ -19,7 +19,8 @@ En utilisant vos connaissances acquises il vous faut faire une application qui p
 Nouvelles demandes : 
 
 1 - Le client veut que les notes soient comprises entre 1 et 6.
-    Avec des codes couleurs des étoiles : entre 1 et 2 -> rouge, entre 3 et 4 -> vert clair, entre 5 et 6 -> vert foncé.
+Avec des codes couleurs des étoiles : entre 1 et 2 -> rouge, entre 3 et 4 -> vert clair, entre 5 et 6 -> vert foncé.
+    
 2 - Le client veut que la section "compétences" soit composé de listes de compétences groupés par lot de 5.
 
 
