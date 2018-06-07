@@ -13,3 +13,13 @@ En utilisant vos connaissances acquises il vous faut faire une application qui p
 - Les compétences doivent être affichées du plus maîtrisé au moins maîtrisé. 
 - L'affichage du classement de maîtrise doit utiliser un système d'étoile.
 - Les compétences ne doivent pas êtres classées dans le fichier JSON.
+
+
+#####
+Nouvelles demandes : 
+
+1 - Le client veut que les notes soient comprises entre 1 et 6.
+    Avec des codes couleurs des étoiles : entre 1 et 2 -> rouge, entre 3 et 4 -> vert clair, entre 5 et 6 -> vert foncé.
+2 - Le client veut que la section "compétences" soit composé de listes de compétences groupés par lot de 5.
+
+
